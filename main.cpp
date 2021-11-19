@@ -165,7 +165,7 @@ void main()
 	tree.print();
 	cout << "Min Value in tree: " << tree.minValue() << endl;
 	cout << "Max Value in tree: " << tree.maxValue() << endl;
-	cout << "Count of Value in tree: " << tree.count() << endl;
+	cout << "Count of Value in tree: " << tree.count() << endl
 	cout << "Sum of Value in tree: " << tree.sum() << endl;
 	cout << "Average Value in tree: " << tree.avg() << endl;
 #endif // BASE_CHECK
